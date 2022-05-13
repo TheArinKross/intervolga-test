@@ -7,13 +7,13 @@
     <title>Алгоритм</title>
 </head>
 <body>
-    <form method="post">
-        <p>Укажите какой символ вставить в массив: <input type="text" name="symbol"></p>
-        <p>Укажите длину массива: <input type="text" name="len"></p>
-        <input type="submit" value="Отправить">
-    </form>
+<form method="post">
+    <p>Укажите какой символ вставить в массив: <input type="text" name="symbol"></p>
+    <p>Укажите длину массива: <input type="text" name="len"></p>
+    <input type="submit" value="Отправить">
+</form>
 
-    <a href="http://intervolga-test/">Назад</a><br>
+<a href="http://intervolga-test/">Назад</a><br>
 </body>
 </html>
 <?php
