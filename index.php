@@ -11,6 +11,6 @@
     <h1 class="header">Тестовое задание Стрельников А.Ю.</h1>
     <a href="task1/algoritm.php">Задание 1. Алгоритм</a><br>
     <a href="task2/index.html">Задание 2. Web</a><br>
-    <a href="task3-4/sql.php">Задание 3-4. SQL</a>
+    <a href="/task3-4">Задание 3-4. SQL</a>
 </body>
 </html>
